@@ -1,2 +1,2 @@
 # Braced-Excavations
-EPSRC funded project
+These are webpages for an EPSRC-funded reseaarch project running from 2023-2027 involving Durham and Dundee Universities. 
